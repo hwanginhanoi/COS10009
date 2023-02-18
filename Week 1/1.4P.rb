@@ -17,7 +17,7 @@ def hello()
 	age = Date.today.year - year_born.to_i()
 	puts('So you are ' + age.to_s + ' years old')
 	puts('Enter your height in metres (i.e as a float): ')
-	value = gets.to_f() # Should this be a float or an Integer? Why?
+	value = gets.to_f() 
 	value = value * INCHES
 	puts('Your height in inches is: ')
 	puts(value.to_s())
