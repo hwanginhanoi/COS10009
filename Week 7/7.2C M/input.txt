@@ -1,0 +1,10 @@
+always
+Keshi
+images/always.bmp
+3
+blue
+musics/blue.mp3
+bys
+musics/bys.mp3
+drunk
+musics/drunk.mp3

@@ -1,0 +1,41 @@
+4
+always
+Keshi
+images/always.png
+3
+Blue
+musics/blue.mp3
+B.Y.S 
+musics/bys.mp3
+Drunk
+musics/drunk.mp3
+Smithereens
+Joji
+images/smithereens.png
+3
+Die for you
+musics/die_for_you.mp3
+Glimpse of us
+musics/glimpse_of_us.mp3
+Dissolve
+musics/dissolve.mp3
+8 Letters
+Why Don't We
+images/8_letters.png
+3
+8 Letters
+musics/8_letters.mp3
+Just Friend
+musics/just_friend.mp3
+What Am I
+musics/what_am_i.mp3
+always
+Keshi
+images/always.png
+3
+Blue
+musics/blue.mp3
+B.Y.S 
+musics/bys.mp3
+Drunk
+musics/drunk.mp3
