@@ -7,3 +7,7 @@ Facebook: [Tuan Hoang Luu](https://www.facebook.com/hwangsjourney)
 Instagram: [@hwangsjourney](https://www.instagram.com/hwangsjourney/)
 
 Discord: 류준황#5788
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
